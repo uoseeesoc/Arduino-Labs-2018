@@ -8,6 +8,10 @@ The confirmed dates and venues for the Arduino Labs are as follows:
 
 - Introduction to Arduino: 1st October, The Diamond, Lecture Theater 9, 17:00 - 18:00
 - Further Programming: 8th October, The Diamond, Lecture Theater 5, 17:00 - 18:00
+- Practical Session 1: 24th October, The Diamond, Electronics and Control Lab, 14:00 - 17:00
+- Practical Session 2: 14th November, The Diamond, Electronics and Control Lab, 14:00 - 17:00
+- Practical Session 3: 21st November, The Diamond, Electronics and Control Lab, 14:00 - 17:00
+- Practical Session 4: 28th November, The Diamond, Electronics and Control Lab, 14:00 - 17:00
 
 ## Contact Information
 

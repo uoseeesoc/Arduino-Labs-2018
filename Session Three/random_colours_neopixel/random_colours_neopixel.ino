@@ -22,9 +22,9 @@
 #define GRN_MIN_VAL 0       //The minimum value the green channel can take
 #define BLU_MAX_VAL 255     //The maximum value the blue channel can take
 #define BLU_MIN_VAL 0       //The minimum value the blue channel can take
-#define MAX_BRGHTNSS 255    //The maximum brightness of the LEDs
+#define MAX_BRGHTNSS 20    //The maximum brightness of the LEDs
 
-//VARIABLES - Contains valuees that will be changed whilst the code is running
+//VARIABLES - Contains values that will be changed whilst the code is running
 //Generates a connection to the Neopixel Strip on the specified pin for the specified number of neopixels
 Adafruit_NeoPixel neopxls = Adafruit_NeoPixel(NMBR_OF_NEOPXLS, PIN_NEOPXLS, NEO_GRB + NEO_KHZ800);
 
